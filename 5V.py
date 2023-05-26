@@ -18,11 +18,11 @@ logo = (""""\033[132m.######...####...##..##...####...#####..
 def ud():
     os.system('clear')
     jalan(logo)
-    print(' \033[1;32m[1] SUBSCRIBE MY CHANNEL')
+    print(' \033[1;32m[1] VIRTULE KING JOKAR SOJIB')
     print(' [2] EXIT')
     opt = input('\n   CHOOSE OPTION >>>\033[1;37m ')
     if opt == '1':
-        os.system('xdg-open https://youtube.com/channel/UCqmAeJg_2YaF9q_zFIxwSlQ')
+        os.system('xdg-open) https://www.facebook.com/profile.php?id=100078180585996
         FD()
         return None
     None('\n\x1b[1;31mEXIT\x1b[0;97m')
@@ -31,7 +31,7 @@ def ud():
 def FD():
     os.system('clear')
     print(logo)
-    print('\x1b[1;33m [1] FOLLOW THIS MY FACEBOOK PAGE')
+    print('\x1b[1;33m [1] THIS MY FACEBOOK ID')
     print(' [2] EXIT')
     opt = input('\n  \x1b[1;32m CHOOSE OPTION >>> ')
     if opt == '1':
